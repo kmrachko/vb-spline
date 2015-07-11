@@ -1,2 +1,2 @@
 # vb-spline
-Программа, позволяющая рисовать кубические сплайны по заданным точкам. Точки можно расставлять вручную или загружать и сохранять в БД. Также точки можно удалять (нажав на ней правой кнопкой мыши) и перетаскивать (зажав Ctrl).
+Given app allows you to draw custom cubic spline. You can add points manually or load them from database (MS Access). Points can be removed (you need to click on point with right mouse button) and dragged (press Ctrl and start dragging).
